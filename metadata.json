@@ -1,0 +1,7 @@
+{
+  "name": "FitVision 2.0",
+  "description": "Smart AI-powered nutrition app with meal analysis, diet generation, and multi-profile tracking featuring a stunning emerald glassmorphism design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
